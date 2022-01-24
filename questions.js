@@ -12,7 +12,7 @@ export const questionsData = [
     a: "Central Style Sheets",
     b: "Cascading Style Sheets",
     c: "Cascading Simple Sheets",
-    d: "Corrected Spelling Source",
+    d: "Corrected Sheet Source",
     correct: "b",
   },
   {
@@ -32,4 +32,3 @@ export const questionsData = [
     correct: "b",
   },
 ];
-
